@@ -1,10 +1,13 @@
-##### Open Existing
+# Open Existing
 
 An addon for Firefox
 
 Check out background.js for information on how it works.
 
-# License
+##### License
 
-P-public domain? Use as you will, don't blame me.
+Unlicense - https://unlicense.org/
+
+aka do whatever u want
+
 
